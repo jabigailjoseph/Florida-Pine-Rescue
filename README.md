@@ -42,7 +42,9 @@ CIRI uses tools such as feature map analysis to continually improve the accuracy
 ![feature maps](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(253).png)
 
 
-4. CIRI's research for public education has a focus on visualization, ensuring that our results are understandable to people of any and every background:
+
+3. CIRI's research for public education has a focus on visualization, ensuring that our results are understandable to people of any and every background:
+
 ![visualization](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(255).png)
 ![visualization 2](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(258).png)
 ![visualization 3](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(259).png)
