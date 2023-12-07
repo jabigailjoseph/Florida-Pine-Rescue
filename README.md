@@ -21,6 +21,8 @@ Along with our work in forestry and piano manufacturing, FPR's Casuarina Invasiv
 Here is an overview of the CIRI initiative's work:
 
 ## CIRI - Overview
+1. Using the AlexNet convolutional neural network, photos are analyzed to a. identify Australian pines and b. differentiate them from other trees:
+
 
 
 
