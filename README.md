@@ -16,6 +16,10 @@ Florida Pine Rescue (FPR) helps to mitigate these issues. We remove casuarina tr
 
 Along with our work in forestry and piano manufacturing, FPR's Casuarina Invasive Research Initiative, or CIRI, maintains the most cutting-edge research on Australian Pines. With CIRI, Florida Pine Rescue expands beyond just private property owners. The purpose of CIRI is to educate the broader public about casuarina trees so that they are also removed from Florida state property (beaches, parks, roads and highways, and especially wildlife management and conservation areas).
 
+Here is an overview of the CIRI initiative's work:
+
+## CIRI - Overview
+
 
 
 
