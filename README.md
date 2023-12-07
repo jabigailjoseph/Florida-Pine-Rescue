@@ -27,7 +27,7 @@ Here is an overview of the CIRI initiative's work:
 
 
 2. CIRI researchers train our models with the utmost accuracy:
-3. 
+ 
 ![training phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(248).png)
 
 
@@ -43,10 +43,10 @@ CIRI uses tools such as feature map analysis to continually improve the accuracy
 
 
 4. CIRI's research for public education has a focus on visualization, ensuring that our results are understandable to people of any and every background:
-5. 
 ![visualization](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(255).png)
 ![visualization 2](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(258).png)
 ![visualization 3](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(259).png)
+
 
 ## Piano Manufacturing
 
