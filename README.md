@@ -50,7 +50,8 @@ CIRI uses tools such as feature map analysis to continually improve the accuracy
 ![visualization 3](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(259).png)
 
 
-## Piano Manufacturing
+
+## Piano Manufacturing: A sustainable Solution
 
 
 
