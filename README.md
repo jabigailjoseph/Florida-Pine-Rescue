@@ -12,8 +12,6 @@ Keeping Florida Safe and Beautiful.
   - [Public Education and Visualization](#public-education-and-visualization)
 - [Piano Manufacturing: A Sustainable Solution](#piano-manufacturing-a-sustainable-solution)
 
-## What is Florida Pine Rescue?
-[Learn More](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/Florida%20Pine%20Rescue.pdf)
 
 ## Our Mission
 
@@ -80,10 +78,13 @@ Introducing a unique approach to sustainability, FPR transforms invasive Austral
 - **Connection to Nature:** Pianos made from casuarina wood foster an appreciation for nature and sustainability.
 - **Reduced Electronic Waste:** Pianos have a longer lifespan, reducing electronic waste in the music industry.
 
-In conclusion, grand pianos offer sustainable music with longevity, eco-friendly materials, energy efficiency, and minimal environmental impact, making them an excellent choice for environmentally conscious musicians and music lovers.
+![grand piano](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/fotor-ai-20231207122012.jpg)
 
 
+## Resources
+[FPR in Google Colab](https://colab.research.google.com/github/jabigailjoseph/Florida-Pine-Rescue/blob/main/FloridaPineRescue)
 
+[Learn More](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/Florida%20Pine%20Rescue.pdf)
 
 
 
