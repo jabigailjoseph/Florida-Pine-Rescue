@@ -49,7 +49,7 @@ Using the AlexNet convolutional neural network, photos are analyzed to a. identi
 
    ![Training Phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(248).png)
 
-Accurate identification of Australian pines helps FPR use AI technology to identify the trees over large areas of land, saving energy and increasing efficiency. It also helps prevent the accidental deforestation of native and/or beneficial tree species in Florida.
+  Accurate identification of Australian pines helps FPR use AI technology to identify the trees over large areas of land, saving energy and increasing efficiency. It also helps prevent the accidental deforestation of native and/or beneficial tree species in Florida.
 
    ![Success!](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(250).png)
 
