@@ -25,6 +25,26 @@ Here is an overview of the CIRI initiative's work:
    
 ![AlexNet](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(243).png)
 
+2. CIRI researchers train the models with the utmost accuracy:
+![training phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(248).png)
+
+Accurate identification of Australian pines helps FPR use AI technology to identify the trees over large areas of land, saving energy and increasing efficiency. It also helps prevent the accidental deforestation of native and/or beneficial tree species in Florida: 
+![success!](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(250).png)
+![training phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(251).png)
+
+CIRI uses tools such as feature map analysis to continually improve the accuracy and efficiency of its models: 
+![feature maps](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(253).png)
+
+4. CIRI's research for public education has a focus on visualization, ensuring that our results are understandable to people of any and every background:
+![visualization](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(255).png)
+![visualization 2](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(258).png)
+![visualization 3](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(259).png)
+
+## Piano Manufacturing
+
+
+
+
 
 
 
