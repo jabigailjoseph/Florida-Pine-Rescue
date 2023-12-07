@@ -82,7 +82,7 @@ Introducing a unique approach to sustainability, FPR transforms invasive Austral
 
 
 ## Resources
-[FPR in Google Colab](https://colab.research.google.com/github/jabigailjoseph/Florida-Pine-Rescue/blob/main/FloridaPineRescue)
+[FPR in Google Colab](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/Florida_Pine_Rescue.ipynb)
 
 [Learn More](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/Florida%20Pine%20Rescue.pdf)
 
