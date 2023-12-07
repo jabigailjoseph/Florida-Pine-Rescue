@@ -22,6 +22,7 @@ Here is an overview of the CIRI initiative's work:
 
 ## CIRI - Overview
 1. Using the AlexNet convolutional neural network, photos are analyzed to a. identify Australian pines and b. differentiate them from other trees:
+![AlexNet](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(243).png)
 
 
 
