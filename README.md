@@ -1,5 +1,7 @@
 # Florida-Pine-Rescue
 
+<img src="https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/fotor-ai-20231204145247.jpg" alt="Image" style="width:300px;"/>
+
 ![FPR](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/fotor-ai-20231204145247.jpg)
 
 Keeping Florida Safe and Beautiful.
