@@ -11,6 +11,7 @@ Keeping Florida Safe and Beautiful.
   - [Feature Map Analysis](#feature-map-analysis)
   - [Public Education and Visualization](#public-education-and-visualization)
 - [Piano Manufacturing: A Sustainable Solution](#piano-manufacturing-a-sustainable-solution)
+- [Resources](#resources)
 
 
 ## Our Mission
