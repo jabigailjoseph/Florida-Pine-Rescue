@@ -2,7 +2,7 @@
 
 <img src="https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/fotor-ai-20231204145247.jpg" alt="Image" style="width:300px;"/>
 
-Keeping Florida Safe and Beautiful.
+## Keeping Florida Safe and Beautiful.
 
 - [What is Florida Pine Rescue?](#what-is-florida-pine-rescue)
 - [Our Mission](#our-mission)
