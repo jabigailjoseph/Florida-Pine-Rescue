@@ -40,6 +40,8 @@ Here is an overview of the CIRI initiative's work:
 ## CIRI - Overview
 
 1. **Photo Analysis with AlexNet**
+Using the AlexNet convolutional neural network, photos are analyzed to a. identify Australian pines and b. differentiate them from other trees:
+
 
    ![AlexNet](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(243).png)
 
@@ -47,19 +49,19 @@ Here is an overview of the CIRI initiative's work:
 
    ![Training Phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(248).png)
 
-   Accurate identification of Australian pines helps FPR use AI technology to identify the trees over large areas of land, saving energy and increasing efficiency. It also helps prevent the accidental deforestation of native and/or beneficial tree species in Florida.
+Accurate identification of Australian pines helps FPR use AI technology to identify the trees over large areas of land, saving energy and increasing efficiency. It also helps prevent the accidental deforestation of native and/or beneficial tree species in Florida.
 
    ![Success!](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(250).png)
 
    ![Training Phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(251).png)
 
-3. **Feature Map Analysis**
+4. **Feature Map Analysis**
 
    CIRI uses tools such as feature map analysis to continually improve the accuracy and efficiency of its models:
 
    ![Feature Maps](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(253).png)
 
-4. **Public Education and Visualization**
+5. **Public Education and Visualization**
 
    CIRI's research for public education has a focus on visualization, ensuring that our results are understandable to people of any and every educational background:
 
