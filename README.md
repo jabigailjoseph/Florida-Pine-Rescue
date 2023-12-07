@@ -1,4 +1,7 @@
 # Florida-Pine-Rescue
+
+![FPR](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/fotor-ai-20231204145247.jpg)
+
 Keeping Florida Safe and Beautiful.
 
 - [What is Florida Pine Rescue?](#what-is-florida-pine-rescue)
