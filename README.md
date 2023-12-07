@@ -26,9 +26,11 @@ Here is an overview of the CIRI initiative's work:
 ![AlexNet](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(243).png)
 
 
+
 2. CIRI researchers train our models with the utmost accuracy:
  
 ![training phase](https://github.com/jabigailjoseph/Florida-Pine-Rescue/blob/main/CIRI_initiative/Screenshot%20(248).png)
+
 
 
 Accurate identification of Australian pines helps FPR use AI technology to identify the trees over large areas of land, saving energy and increasing efficiency. It also helps prevent the accidental deforestation of native and/or beneficial tree species in Florida: 
